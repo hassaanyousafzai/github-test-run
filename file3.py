@@ -1,3 +1,3 @@
-phone = 1234567890
+number = 1234567890
 
-print(phone)
+print(number)
